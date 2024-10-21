@@ -16,9 +16,6 @@
   
 </div>
 
----
-<p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=Mansiv75&title=MultipleLang,Repositories" alt="Mansiv75" /></a> </p>
-
 
 ---
 
